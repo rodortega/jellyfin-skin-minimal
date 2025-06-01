@@ -333,3 +333,16 @@ h2 {
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
 }
+
+.layout-tv .trackSelections .selectContainer .detailTrackSelect {
+  padding: .5em 1.9em .5em .5em
+}
+
+
+.layout-tv .trackSelections .selectContainer .selectLabel {
+  margin: .2em .2em 0 0;
+}
+
+.layout-tv .cardBox, .layout-tv .cardImageContainer {
+  border-radius: 0;
+}
