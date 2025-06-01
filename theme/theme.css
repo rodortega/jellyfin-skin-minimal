@@ -338,13 +338,8 @@ h2 {
   padding: .5em 1.9em .5em .5em
 }
 
-
 .layout-tv .trackSelections .selectContainer .selectLabel {
   margin: .2em .2em 0 0;
-}
-
-.layout-tv .cardBox, .layout-tv .cardImageContainer {
-  border-radius: 0;
 }
 
 .layout-tv .innerCardFooter > .itemProgressBar {
